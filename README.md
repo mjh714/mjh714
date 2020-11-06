@@ -1,4 +1,7 @@
- ### Hello there, I am Michael Horowitz
+ <h1>Welcome friend!</h1>
+ <img src="https://lh3.googleusercontent.com/proxy/DkIn5QffZWwl9tsVzfwQc39ADVMQHltmh1iF1GiChFjsPK9E5MOvnvSyx-dPJ3b1Pjaf76WxxmblRSZ_LF4xibh-jcCmQip_F9TLbccMZCbkGrw=s0-d" alt=""/>  I am Michael Horowitz
+ 
+ 
 Full-stack developer currently learning data structures and algorithms
 
 I regulary write articles on https://medium.com/@mjhorowitz714
@@ -11,7 +14,8 @@ Connect with me on https://www.linkedin.com/in/michael-horowitz-4b36341b1/
 
 
 Languages and tools:
-bootstrap css3 html5 javascript mysql postgresql rails react ruby
+
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt=""/> <img src="https://img.icons8.com/dusk/64/000000/css3.png" alt=""/> <img src="https://img.icons8.com/metro/26/000000/html-filetype.png" alt=""/> <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt=""/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt=""/> <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt=""/> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt=""/>
 
 
 
