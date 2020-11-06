@@ -1,5 +1,7 @@
 
- <img src="https://lh3.googleusercontent.com/proxy/DkIn5QffZWwl9tsVzfwQc39ADVMQHltmh1iF1GiChFjsPK9E5MOvnvSyx-dPJ3b1Pjaf76WxxmblRSZ_LF4xibh-jcCmQip_F9TLbccMZCbkGrw=s0-d" alt=""/>  I am Michael Horowitz
+ <img src="https://lh3.googleusercontent.com/proxy/DkIn5QffZWwl9tsVzfwQc39ADVMQHltmh1iF1GiChFjsPK9E5MOvnvSyx-dPJ3b1Pjaf76WxxmblRSZ_LF4xibh-jcCmQip_F9TLbccMZCbkGrw=s0-d" alt=""/>  
+ 
+ <h1>I am Michael Horowitz</h1>
  
  
 Full-stack developer currently learning data structures and algorithms
