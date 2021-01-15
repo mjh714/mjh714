@@ -4,7 +4,7 @@
  <h1>I am Michael Horowitz</h1>
  
  
-Full-stack developer currently learning data structures and algorithms
+Full-stack developer 
 
 I regulary write articles on https://medium.com/@mjhorowitz714
 
