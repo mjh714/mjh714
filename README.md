@@ -10,8 +10,6 @@ I regulary write articles on https://medium.com/@mjhorowitz714
 
 You can contact me at mjhorowitz714@yahoo.com
 
-See my experience https://docs.google.com/document/d/1VcurUNTrm6ubK8BQ-uYLyaess3R6nUnK5lRXRxd7irU/edit?usp=sharing
-
 Connect with me on https://www.linkedin.com/in/michael-horowitz-4b36341b1/ 
 
 
