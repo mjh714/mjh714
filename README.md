@@ -17,7 +17,6 @@ Languages and tools:
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt=""/> <img src="https://img.icons8.com/dusk/64/000000/css3.png" alt=""/> <img src="https://img.icons8.com/metro/26/000000/html-filetype.png" alt=""/> <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png" alt=""/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt=""/> <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt=""/> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt=""/>
 <img src="https://img.icons8.com/ios/50/000000/python--v1.png"/>
 
-
 <!--
 **mjh714/mjh714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
