@@ -1,5 +1,4 @@
 
- 
  <h1>I am Michael Horowitz</h1>
  
 Full-stack developer 
