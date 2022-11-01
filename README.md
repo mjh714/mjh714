@@ -3,7 +3,7 @@
  
 Full-stack developer 
 
-I regulary write articles on https://medium.com/@mjhorowitz714
+I write articles on https://medium.com/@mjhorowitz714
 
 You can contact me at mjhorowitz714@yahoo.com
 
